@@ -1,7 +1,6 @@
-# devops_web
+# Mail Client
 
-FIXME
-
+Mail client by clojure.
 ## Getting Started
 
 1. Start the application: `lein run`
